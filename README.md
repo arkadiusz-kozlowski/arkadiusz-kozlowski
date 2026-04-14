@@ -2,6 +2,7 @@
 - 👀 I’m interested in web application and database development
 - 🌱 I’m currently learning Azure Synapse
 - 💞️ I’m looking to collaborate on Big Data
+- ✨ See it live on my GitHub profile page
 - 📫 How to reach me @ arkadiusz.kozlowski@outlook.com
 
 <!---
